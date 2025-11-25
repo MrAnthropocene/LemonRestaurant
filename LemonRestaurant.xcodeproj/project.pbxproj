@@ -45,6 +45,11 @@
 			path = LemonRestaurantUITests;
 			sourceTree = "<group>";
 		};
+		55E1674E2ED53DA700CC0B29 /* Practices */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Practices;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +84,7 @@
 				55BEA2B82ED260C800245C18 /* LemonRestaurantTests */,
 				55BEA2C22ED260C800245C18 /* LemonRestaurantUITests */,
 				55BEA2A92ED260C600245C18 /* Products */,
+				55E1674E2ED53DA700CC0B29 /* Practices */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				55BEA2AA2ED260C600245C18 /* LemonRestaurant */,
+				55E1674E2ED53DA700CC0B29 /* Practices */,
 			);
 			name = LemonRestaurant;
 			packageProductDependencies = (

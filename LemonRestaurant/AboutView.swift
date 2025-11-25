@@ -9,7 +9,7 @@ import SwiftUI
 
  
 
-struct ContentView: View {
+struct AboutView: View {
     var body: some View {
         Text("About Little Lemon v2")
             .font(Font.largeTitle)
@@ -33,5 +33,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    AboutView()
 }
